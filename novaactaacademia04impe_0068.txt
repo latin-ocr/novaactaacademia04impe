@@ -1,0 +1,40 @@
+*54 HISTOIRE.
+
+d’application desquelles elles sont menees5 ὃς soit pris l'exces
+de la somme de ceux de ces produits qui apartiennent aux
+forces agiffantes dans un des sens, sur la somme de ceux de
+ces produits qui apartiennent aux forces agifl'antes dans le sens
+oppose. Soit faite la meme operation pour tout autre point
+dans l'espace. Le second exces differe du premier, du pro-
+duit fait du quatre de la distance de ces deux points, par la
+difference de ces deux sommes de forces; savoir: le second
+exces surpasse le premier, ou en est surpasse de ce produit,
+suivant que la somme des premieres forces est plus grande ou
+plus petite que la somme des secondes forces.
+
+Symboliquement.
+
+Soient a, b, c, d ..... l, m, n, les intenfites d'un
+certain nombre de forces paralleles appliqtnees aux points A,
+B, C,D . . . . L, M, N. Soie11t‚a‘,b',cs‚d²' . . . . 1²,m‘,n‘,
+les intcnfites d'autres forces pa1·;1lleles,11121is opposees aux pre-
+miere55 soient As, Bs, Cf, D' ...... Ls, M‘', N‘, leurs
+points d'application. Soit Q, le centre d'equilibre de tontes
+ces forces & Ρ un point quelconque dans lespace: on a
+
+PA²xa÷PB²><b÷PC²xc÷ ...... ÷PM²xm÷PN²xn—
+-(PAs²xa‘÷PBs²›<bf÷ ..... ÷PMs²xms÷PN²²xn)--
+:QA²xa—÷-QB²›<b—÷- ...... —÷-QM²>‹m-÷-QN³›<71—
+—(QAf²xa‘-⁴-QBs²xbs-†- . . . . ÷QM''x712‘-*-QN''²xn')-÷-
+*PQ²(0-⁴-b-÷-c—÷-d—÷- ....... -÷-l-÷—m-4—-n)—
+-PQ²(a'-÷-bs—÷-c²—÷-ds—÷- ....... l'-÷-m²—÷-n').
+
+Exemple 4.
+
+§. 13. Soient a, b, c, d, quatre forces dont les di-
+reffions sont paralleles, appliquees :lux points Α, Β, (ἶ, D; de
+muniere que les deux premieres sont opposees aux deux der-
+nicres: l'equation ’
+
+QA¹›‹
+

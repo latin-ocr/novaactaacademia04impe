@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaacademia04impe_0363.png"; bbox 0 0 2034 2803; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 227 2352 394 2393">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 227 2352 394 2393">
+     <span class='ocr_line' id='line_1_1' title="bbox 227 2352 394 2393; baseline -0.012 0"><span class='ocrx_word' id='word_1_1' title='bbox 227 2352 289 2393; x_wconf 44' lang='lat' dir='ltr'><strong>sss)</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 307 2367 344 2390; x_wconf 65' lang='lat' dir='ltr'><strong>⁴¹l</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 368 2374 394 2391; x_wconf 61' lang='lat' dir='ltr'><strong>s.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 317 1083 1593 1234">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 317 1083 1593 1234">
+     <span class='ocr_line' id='line_1_2' title="bbox 317 1083 1593 1234; baseline -0.012 -2"><span class='ocrx_word' id='word_1_4' title='bbox 317 1083 1593 1234; x_wconf 73' lang='lat' dir='ltr'><strong>PHYSICA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 387 2332 1408 2398">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 387 2332 1408 2398">
+     <span class='ocr_line' id='line_1_3' title="bbox 387 2332 1408 2398; baseline -0.012 -14"><span class='ocrx_word' id='word_1_5' title='bbox 387 2350 468 2388; x_wconf 55' lang='lat' dir='ltr'><strong>{ssa</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 493 2348 616 2388; x_wconf 58' lang='lat' dir='ltr'><strong>Afas.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 644 2345 737 2398; x_wconf 57' lang='lat' dir='ltr'><strong>ffmp.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 759 2344 827 2385; x_wconf 65' lang='lat' dir='ltr'><strong>Fe.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 849 2344 890 2384; x_wconf 77' lang='grc' dir='ltr'><strong>Τ.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 917 2339 986 2381; x_wconf 80' lang='lat' dir='ltr'><strong>W.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1319 2332 1360 2373; x_wconf 91' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_12' title='bbox 1382 2332 1408 2373; x_wconf 92' lang='lat' dir='ltr'>d</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

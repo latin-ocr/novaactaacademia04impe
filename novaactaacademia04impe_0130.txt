@@ -1,0 +1,40 @@
+116 H'ISTO'IRE.
+
+V
+
+De binis curuis algebraicis inueniendis , quarum arcus
+indefinite inter se smt aequales,
+
+Auctore L. Eulero. Pag. 96.
+
+En de fignant par X & x les abscissos, δι’ par Y & y
+les ordonnees de deux courbes algebriques, le Probleme geo-
+metrique que feu M. Euler traite ici dans ce memoirc.‚ se re·
+duit τὶ cette question purement analytique: Quelles sont les
+quatre fonffions algebriques d'une nouvelle variable z, qu'il
+faut prendre pour X, Y, x, y, afin que
+
+3X2-ae-3Y223x2-4-3y2.
+
+En mettant
+ΧΞΡ-Ι-ᾳς xzp—q3
+er——53 yzr÷s3
+cette condition se reduit ἐι la suivante: &p ὂ q: ὃ r ὂ s, qu'on
+
+peut remp1i1·‚ comme rAuteur observes, d’une infinite de ma-
+nieres, fi l'on veut se contenter de solutions particulieres.
+
+Quant ὰ la solution generale du Probleme7 M. Euler
+en donne deux. La premiere se reduit aux reglcs suivantes:
+10.) A la place de q ὃ( ν prencz deux sonCtions quelconques
+algebriques de z ἃ faites ιτς-ἕξ. 2⁰.) Prenez pour sthtzv
+auffi unc fonction quelconque algebrique de z ἃ 3⁰.) donncz
+
+ἱι p & s les valeurs suivantes: pzc‘ffi, s: &aff—v δε les
+coordonnees des deux courbes cherchccs seront
+³135÷W xZZX-‘ss
+— ι r ..- ι ι) t
+Y—r—ffa'¹⁴ 42* J-..t-†-.‘du²—
+
+De
+

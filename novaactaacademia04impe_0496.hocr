@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaacademia04impe_0496.png"; bbox 0 0 3761 1990; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1170 0 1860 64">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1170 0 1860 64">
+     <span class='ocr_line' id='line_1_1' title="bbox 1170 0 1860 64; baseline 0.014 -32"><span class='ocrx_word' id='word_1_1' title='bbox 1170 0 1223 32; x_wconf 54' lang='lat' dir='ltr'><em>sse</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1261 6 1366 34; x_wconf 55' lang='grc' dir='ltr'><em>ον’-(ἀξια</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1387 0 1550 64; x_wconf 56' lang='lat' dir='ltr'><em>fifiracum</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1582 8 1694 38; x_wconf 54' lang='lat' dir='ltr'><em>[enlm</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1708 11 1776 40; x_wconf 71' lang='lat' dir='ltr'><em>sab,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1802 19 1860 42; x_wconf 85' lang='lat' dir='ltr'><em>VII.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 359 62 3650 1924">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 359 62 3650 1924">
+     <span class='ocr_line' id='line_1_2' title="bbox 359 62 3650 1924; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 359 62 3650 1924; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2002 1925 2725 1974">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2002 1925 2725 1974">
+     <span class='ocr_line' id='line_1_3' title="bbox 2002 1925 2725 1974; baseline -0.029 -6"><span class='ocrx_word' id='word_1_8' title='bbox 2002 1940 2094 1965; x_wconf 72' lang='lat' dir='ltr'><em>Moe</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 2114 1932 2292 1965; x_wconf 58' lang='lat' dir='ltr'><em>AeaAea-l</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 2302 1935 2376 1974; x_wconf 69' lang='lat' dir='ltr'><em>Imp</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 2386 1953 2389 1955; x_wconf 97' lang='lat'>.</span> <span class='ocrx_word' id='word_1_12' title='bbox 2400 1929 2566 1966; x_wconf 60' lang='lat' dir='ltr'><em>scfeffop</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 2580 1925 2725 1951; x_wconf 63' lang='lat' dir='ltr'><em>samm</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

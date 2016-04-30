@@ -1,0 +1,35 @@
+ω, HISTOIRE.
+
+Apres avoir trouve de cette maniere la serie pour une
+puiss‘ance quelconqne n de la racine de l'equation trinomiale 9
+sauteur applique sa methode ὰ une equation de quatre termes,
+*δε finit par montrer de quelle muniere on peut s’en servir
+pour des equations polynomes quelconques.
+
+Quant ἐι la serie de Lambert, qu'il nous soit permis
+de rappeller aux Geometres un memoire de feu Μ. Euler qui
+se trouve dans les Actes de l⁷Academie pour le second seme-
+stre dc l'annee 1779, 01¹1 il a montre plusieurs proprietes re-
+marquables dont cette serie est douee.
+
+IV.
+
+De innumeris generibus serierum maxime memorabilium,
+quibus omniurn aequationum algebraicarum non solum
+radices ipsae, sed etiam quaecunque earum potestates
+exprimi possunt.
+
+Auc‘tore L. Eulero. Pag. 74.
+
+Nous avons dej2i fait mention ‚ dans le precedent ex-
+truit, d‘un me‘moire que notre illustre Geometre avoit donne
+dans le XW. volume des nouveaux commentaires, sur le nie·
+me sujet qu'il truite ici & dans la dissertation precedente. 11
+y avoit monti-e quon peut non seulement exprimet la racine,
+mais une puill‘ance qnelconque de la tucine d“t111e.equ:1tion al-
+gebtiqrse quelconque gut une se'rie infinie ass‘ez simple ἃ d‘un
+loi (le progrellion affer, evidente. Ici il va plus lo? ., comme
+on va voir par l'exposition suivante du contenu dc te iz droise.
+
+Soit
+
